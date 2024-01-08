@@ -1,16 +1,18 @@
 # A 20-Year Retrospective of Healthcare Development in China
 
-夏艺馨 2230026171
+## Group member
 
-陶曼熙 2230026145
+Yixin Xia
 
-肖嘉浩 2230026173
+Manxi Tao
 
-颜梦萱 2230026185
+Jiahao Xiao
 
-李丹阳 2230026071
+Mengxuan Yan
 
-杨钧涯 2230026188
+Danyang Li
+
+Junya Yang
 
 ## Data Description
 We found a total of 3 different datasets, each of which included data from China over the last 20 years
